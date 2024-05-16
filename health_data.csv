@@ -1,0 +1,4 @@
+Age,Sex,Height,Weight,BMI,Body fat,Hand grip dominant hand,Hand grip non-dominant hand,Wrist circumference dominant,Wrist circumference non-dominant,Serum T3,Serum T4,TSH,Thyroid
+29,female,165,56.0,20.57,34.0,23,21.0,13,13.0,0.21,3.32,9.23,Hypothyroid
+28,male,174,78.6,25.8,23.0,46,39.0,18,17.6,0.98,8.32,4.34,Normal
+41,male,169,68.5,23.98,17.5,32,31.8,16,15.4,0.58,4.3,6.7,Hypothyroid
