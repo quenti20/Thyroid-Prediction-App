@@ -4,3 +4,4 @@ pandas>=2.2.1
 xgboost>=2.0.3  # Please specify the version of XGBoost you are using
 numpy>=1.24.4    # Please specify the version of NumPy you are using
 scipy>=1.10.0    # Please specify the version of SciPy you are using
+altair==4.0
